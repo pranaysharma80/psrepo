@@ -1,2 +1,3 @@
 test
 this line is added by devB
+3rd line devB
